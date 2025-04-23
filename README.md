@@ -5,9 +5,9 @@
 **TESTING :** Postman
 
 Activate the Environment
-  cd .venv
-  cd Scripts
-  activate
+  1. cd .venv
+  2. cd Scripts
+  3. activate
 
 Run the Code
   python manage.py runserver
