@@ -1,8 +1,8 @@
-TASK NAME : DATA PUSHER
+**TASK NAME :** DATA PUSHER
 
-BACKEND : Django Rest Framework
+**BACKEND :** Django Rest Framework
 
-TESTING : Postman
+**TESTING :** Postman
 
 Activate the Environment
 
